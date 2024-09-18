@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # aku-baik
 cop
